@@ -103,6 +103,7 @@ Capture & Sync  ──►  Rectify / Undistort  ──►  2D Pose & ROI (per vi
 * **Big advantage:** With a **4-mono-camera setup**, the **virtual pad** (with **4 markers**) and the **pencil** (with **2 markers**) can be operated **almost like on a real tablet**.
 
 **Author’s note (capability & expected uplift):**
+
 I am an experienced drive-systems engineer and CNC manufacturer. I can build a **high-precision PTZ head** with **servo motors**, **direct absolute encoders**, and **automatic preloading (clamping)**; **zoom and focus** are **hardware-controlled** as well. I can also integrate **IR illumination with multiple wavelengths** (e.g., 850/940 nm) and adapt it to the scene for optimal contrast. In my estimation, this active PTZ/zoom/focus/IR setup adds **~50–80%** performance/robustness on top of the reference baseline; i.e., from **100% (baseline)** to approximately **150–180% overall**.
 
 ---
